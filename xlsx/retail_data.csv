@@ -1,0 +1,31 @@
+OrderID,CustomerName,Age,Gender,Product,Category,Quantity,Price,OrderDate,Payment
+1001,Alice Smith,25.0,F,Laptop,Electronics,1,800.0,2023-01-15,Credit
+1002,Bob Johnson,,Male,T-shirt,Clothing,2,20.0,01/16/2023,cash
+1003,Charlie,33.0,M,Headphones,electronic,1,50.0,2023/01/17,Debit
+1004,Alice Smith,25.0,F,Laptop,Electronics,1,800.0,2023-01-15,Credit
+1005,Dana White,29.0,F,,Clothing,3,,2023-01-20,Paypal
+1006,Eric Miller,41.0,Male,Coffee Maker,Home,-1,100.0,2023-01-21,credit
+1007,Frank Zhang,22.0,M,Smartphone,Electronics,1,600.0,2023-01-22,Debit
+1008,Grace Lee,27.0,female,Jeans,Clothing,2,40.0,2023-13-23,Debit
+1009,Henry,35.0,M,Tablet,Electronics,1,300.0,2023-01-24,Paypal
+1010,Ivy Chen,28.0,F,Dress,Clothing,1,60.0,2023-01-25,Credit
+1011,Jack Black,31.0,M,Shoes,Clothing,2,90.0,2023-01-26,Cash
+1012,Kelly Wu,30.0,F,Smartwatch,Electronics,1,200.0,2023-01-27,Debit
+1013,Leo Messi,36.0,M,T-shirt,Clothing,3,25.0,2023-01-28,Paypal
+1014,Maria Lopez,40.0,F,Laptop,Electronics,1,850.0,2023-01-29,Credit
+1015,Nathan Drake,29.0,Male,Shoes,Clothing,1,100.0,2023-01-30,Debit
+1016,Olivia Wilde,34.0,F,Dress,Clothing,2,55.0,2023-02-01,Debit
+1017,Peter Parker,26.0,M,Coffee Maker,Home,1,120.0,2023-02-02,Credit
+1018,Quinn,38.0,F,Laptop,Electronic,1,800.0,2023-02-03,Paypal
+1019,Rachel Green,33.0,Male,Headphones,Electronics,1,50.0,2023-02-04,Debit
+1020,Sam Wilson,45.0,M,T-shirt,Clothing,2,20.0,2023-02-05,Cash
+1021,Tom Hardy,39.0,Male,Laptop,Electronics,1,900.0,2023-02-06,Credit
+1022,Uma Thurman,28.0,F,Smartwatch,Electronics,1,250.0,2023-02-07,Credit
+1023,Victor,41.0,M,Shoes,Clothing,2,80.0,2023-02-08,Paypal
+1024,Wendy,,F,Smartphone,Electronics,1,600.0,2023-02-09,Debit
+1025,Xander,32.0,M,Dress,Clothing,2,75.0,2023-02-10,Cash
+1026,Yara Grey,27.0,female,Jeans,Clothing,1,45.0,2023-02-11,Debit
+1027,Zane,29.0,M,Tablet,Electronics,1,310.0,2023-02-12,Paypal
+1028,Alice Smith,25.0,F,Laptop,Electronics,1,800.0,2023-02-13,Credit
+1029,Bob Johnson,38.0,Male,T-shirt,Clothing,2,20.0,2023-02-14,cash
+1030,Charlie,33.0,M,Headphones,electronic,1,50.0,2023-02-15,Debit
